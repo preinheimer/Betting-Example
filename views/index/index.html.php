@@ -18,6 +18,8 @@ if (isset($message))
 <br style="clear: both;">
 <br style="clear: both;">
 
-
+<a href="http://blog.preinheimer.com">Corresponding Blog Post</a>
+<p>This example page was created to demonstrate the problem with considering Cookies a swap in replacement for server side session storage. To experiment, view your cookies and copy them elsewhere, then gamble once. If you lose money replace your cookies with the ones you copied earlier. Reload the page.</p>
+<p>The UI was stolen from <a href="http://pro.wheresitup.com/">Where's it Up?</a> and <a href="http://load.wondernetwork.com/beta/">Natural Load Testing</a></p>
 </div>
 
